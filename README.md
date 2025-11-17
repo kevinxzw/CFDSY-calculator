@@ -1,2 +1,2 @@
 # CFDSY-calculator
-GFDST
+CFDST
